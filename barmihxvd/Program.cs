@@ -11,6 +11,9 @@ namespace barmihxvd
         static void Main(string[] args)
         {
             Console.WriteLine("Helló!");
+
+            double a = int.Parse(Console.ReadLine());
+            Console.WriteLine(a / 2);
         }
     }
 }
