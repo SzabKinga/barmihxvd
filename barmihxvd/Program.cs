@@ -10,6 +10,7 @@ namespace barmihxvd
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Helló!");
         }
     }
 }
